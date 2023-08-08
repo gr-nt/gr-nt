@@ -4,7 +4,7 @@
 <h3 align="center">A 22 year old programmer learning some code | Bachelor of IT</h3>
 
 ---
-- 🔭 I’m currently working on **nothing**
+- 🔭 I’m currently working on **learning**
 
 - 🌱 I’m currently learning **Javascript**
 
